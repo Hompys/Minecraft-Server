@@ -1,0 +1,60 @@
+[20:30:29] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[20:30:29] [Server thread/INFO]: Loading properties
+[20:30:29] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Referensen (handle) är felaktig
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_111]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
+	at nz$2.run(SourceFile:100) [server.jar:?]
+[20:30:29] [Server thread/INFO]: Default game type: SURVIVAL
+[20:30:29] [Server thread/INFO]: Generating keypair
+[20:30:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:30:29] [Server thread/INFO]: Using default channel type
+[20:30:29] [Server thread/INFO]: Preparing level "Server"
+[20:30:30] [Server thread/INFO]: Loaded 488 advancements
+[20:30:30] [Server thread/INFO]: Preparing start region for level 0
+[20:30:31] [Server thread/INFO]: Preparing spawn area: 60%
+[20:30:31] [Server thread/INFO]: Done (1,788s)! For help, type "help" or "?"
+[20:30:48] [User Authenticator #1/INFO]: UUID of player Sp0of27 is 8a5de995-9bb5-4f68-ac50-f9847b7dc5af
+[20:30:48] [Server thread/INFO]: Sp0of27[/25.59.146.175:60053] logged in with entity id 363 at (368.5, 67.0, 11.5)
+[20:30:48] [Server thread/INFO]: Sp0of27 joined the game
+[20:58:25] [User Authenticator #2/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
+[20:58:25] [Server thread/INFO]: QeaZz[/25.82.227.42:60753] logged in with entity id 52221 at (582.1058266395012, 76.0, 16.33004496641687)
+[20:58:25] [Server thread/INFO]: QeaZz joined the game
+[21:08:01] [Server thread/INFO]: QeaZz lost connection: Disconnected
+[21:08:01] [Server thread/INFO]: QeaZz left the game
+[21:22:24] [Server thread/INFO]: Sp0of27 has made the advancement [Enchanter]
+[21:36:15] [Server thread/WARN]: Sp0of27 moved too quickly! -436.9435244969034,-13.0,74.97226930957667
+[21:36:50] [Server thread/WARN]: Sp0of27 moved wrongly!
+[21:38:04] [Server thread/INFO]: Sp0of27 tried to swim in lava
+[21:40:38] [Server thread/WARN]: Sp0of27 moved too quickly! -436.52104077051206,-13.0,74.38339240488182
+[21:43:44] [Server thread/WARN]: Sp0of27 moved too quickly! 436.2946290213665,13.0,-74.30888363781246
+[21:48:54] [Server thread/INFO]: <Sp0of27> WWWWWWWW
+[22:00:02] [Server thread/INFO]: Sp0of27 lost connection: Disconnected
+[22:00:02] [Server thread/INFO]: Sp0of27 left the game
+[22:01:45] [User Authenticator #3/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
+[22:01:45] [Server thread/INFO]: QeaZz[/25.82.227.42:53865] logged in with entity id 200988 at (390.69999998807907, 67.0, 30.0259792746194)
+[22:01:45] [Server thread/INFO]: QeaZz joined the game
+[22:17:38] [Server thread/INFO]: QeaZz lost connection: Disconnected
+[22:17:38] [Server thread/INFO]: QeaZz left the game
+[22:18:11] [Server thread/INFO]: Stopping the server
+[22:18:11] [Server thread/INFO]: Stopping server
+[22:18:11] [Server thread/INFO]: Saving players
+[22:18:11] [Server thread/INFO]: Saving worlds
+[22:18:11] [Server thread/INFO]: Saving chunks for level 'Server'/overworld
+[22:18:11] [Server thread/INFO]: Saving chunks for level 'Server'/the_nether
+[22:18:11] [Server thread/INFO]: Saving chunks for level 'Server'/the_end
+[22:18:11] [Server Shutdown Thread/INFO]: Stopping server
+[22:18:11] [Server Shutdown Thread/INFO]: Saving players
+[22:18:11] [Server Shutdown Thread/INFO]: Saving worlds
+[22:18:11] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/overworld
+[22:18:11] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_nether
+[22:18:11] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_end
