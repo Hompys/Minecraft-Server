@@ -1,6 +1,5 @@
-[22:51:48] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[22:51:48] [Server thread/INFO]: Loading properties
-[22:51:48] [Server console handler/ERROR]: Exception handling console input
+[12:46:41] [Server thread/INFO]: Loading properties
+[12:46:41] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: Referensen (handle) är felaktig
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_131]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_131]
@@ -14,35 +13,43 @@ java.io.IOException: Referensen (handle) är felaktig
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_131]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_131]
 	at nz$2.run(SourceFile:100) [server.jar:?]
-[22:51:48] [Server thread/INFO]: Default game type: SURVIVAL
-[22:51:48] [Server thread/INFO]: Generating keypair
-[22:51:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:51:49] [Server thread/INFO]: Using default channel type
-[22:51:49] [Server thread/INFO]: Preparing level "Server"
-[22:51:49] [Server thread/INFO]: Loaded 488 advancements
-[22:51:49] [Server thread/INFO]: Preparing start region for level 0
-[22:51:50] [Server thread/INFO]: Preparing spawn area: 37%
-[22:51:51] [Server thread/INFO]: Done (2,004s)! For help, type "help" or "?"
-[22:54:41] [User Authenticator #1/INFO]: UUID of player Hompan is 735add46-12f1-4ae5-a77d-c955c682a7cf
-[22:54:42] [Server thread/INFO]: Hompan[/25.59.55.169:61799] logged in with entity id 354 at (510.35452261833063, 71.0, -10.429652710727614)
-[22:54:42] [Server thread/INFO]: Hompan joined the game
-[22:55:15] [User Authenticator #2/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
-[22:55:15] [Server thread/INFO]: QeaZz[/25.82.227.42:54533] logged in with entity id 1164 at (488.69999998807907, 11.0, -199.3000000119209)
-[22:55:15] [Server thread/INFO]: QeaZz joined the game
-[22:55:50] [User Authenticator #3/INFO]: UUID of player Sp0of27 is 8a5de995-9bb5-4f68-ac50-f9847b7dc5af
-[22:55:50] [Server thread/INFO]: Sp0of27[/25.59.146.175:61362] logged in with entity id 1650 at (215.04571486994928, 76.0, -866.1473633498548)
-[22:55:50] [Server thread/INFO]: Sp0of27 joined the game
-[22:56:37] [Server thread/INFO]: Hompan lost connection: Disconnected
-[22:56:37] [Server thread/INFO]: Hompan left the game
-[22:56:44] [Server thread/INFO]: Sp0of27 lost connection: Disconnected
-[22:56:44] [Server thread/INFO]: Sp0of27 left the game
-[23:06:00] [Server thread/INFO]: QeaZz lost connection: Disconnected
-[23:06:00] [Server thread/INFO]: QeaZz left the game
-[23:06:10] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[23:06:13] [Server thread/INFO]: Stopping the server
-[23:06:14] [Server thread/INFO]: Stopping server
-[23:06:14] [Server thread/INFO]: Saving players
-[23:06:14] [Server thread/INFO]: Saving worlds
-[23:06:14] [Server thread/INFO]: Saving chunks for level 'Server'/overworld
-[23:06:14] [Server thread/INFO]: Saving chunks for level 'Server'/the_nether
-[23:06:14] [Server thread/INFO]: Saving chunks for level 'Server'/the_end
+[12:46:41] [Server thread/INFO]: Default game type: SURVIVAL
+[12:46:41] [Server thread/INFO]: Generating keypair
+[12:46:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:46:41] [Server thread/INFO]: Using default channel type
+[12:46:41] [Server thread/INFO]: Preparing level "Server"
+[12:46:42] [Server thread/INFO]: Loaded 488 advancements
+[12:46:42] [Server thread/INFO]: Preparing start region for level 0
+[12:46:43] [Server thread/INFO]: Preparing spawn area: 7%
+[12:46:43] [Server thread/INFO]: Done (2,179s)! For help, type "help" or "?"
+[12:56:49] [User Authenticator #1/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
+[12:56:49] [Server thread/INFO]: QeaZz[/25.82.227.42:55492] logged in with entity id 354 at (579.3000000119209, 77.0, 17.285497273075066)
+[12:56:49] [Server thread/INFO]: QeaZz joined the game
+[14:22:07] [Server thread/INFO]: QeaZz lost connection: Disconnected
+[14:22:07] [Server thread/INFO]: QeaZz left the game
+[17:07:35] [User Authenticator #2/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
+[17:07:35] [Server thread/INFO]: QeaZz[/25.82.227.42:56283] logged in with entity id 52558 at (582.1193703685992, 76.0, 17.962724105884323)
+[17:07:35] [Server thread/INFO]: QeaZz joined the game
+[17:18:05] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[17:18:13] [Server thread/INFO]: Set the time to 0
+[17:44:13] [Server thread/INFO]: QeaZz has made the advancement [Hot Stuff]
+[18:17:15] [Server thread/INFO]: Set the time to 0
+[19:12:11] [Server thread/INFO]: Changing to clear weather
+[20:51:52] [Server thread/INFO]: Set the time to 0
+[21:02:44] [Server thread/INFO]: QeaZz has made the advancement [Suit Up]
+[21:04:19] [Server thread/INFO]: QeaZz has made the advancement [Not Today, Thank You]
+[21:09:39] [Server thread/INFO]: QeaZz lost connection: Disconnected
+[21:09:39] [Server thread/INFO]: QeaZz left the game
+[21:09:49] [Server thread/INFO]: Stopping the server
+[21:09:49] [Server thread/INFO]: Stopping server
+[21:09:49] [Server thread/INFO]: Saving players
+[21:09:49] [Server thread/INFO]: Saving worlds
+[21:09:49] [Server thread/INFO]: Saving chunks for level 'Server'/overworld
+[21:09:49] [Server thread/INFO]: Saving chunks for level 'Server'/the_nether
+[21:09:49] [Server thread/INFO]: Saving chunks for level 'Server'/the_end
+[21:09:49] [Server Shutdown Thread/INFO]: Stopping server
+[21:09:49] [Server Shutdown Thread/INFO]: Saving players
+[21:09:49] [Server Shutdown Thread/INFO]: Saving worlds
+[21:09:49] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/overworld
+[21:09:49] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_nether
+[21:09:49] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_end
