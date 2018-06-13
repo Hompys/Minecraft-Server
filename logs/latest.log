@@ -1,55 +1,57 @@
-[12:46:41] [Server thread/INFO]: Loading properties
-[12:46:41] [Server console handler/ERROR]: Exception handling console input
+[11:11:40] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[11:11:40] [Server thread/INFO]: Loading properties
+[11:11:40] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: Referensen (handle) är felaktig
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_131]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_131]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_131]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_131]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_131]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_131]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_131]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_131]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_131]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_131]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_131]
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_111]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
 	at nz$2.run(SourceFile:100) [server.jar:?]
-[12:46:41] [Server thread/INFO]: Default game type: SURVIVAL
-[12:46:41] [Server thread/INFO]: Generating keypair
-[12:46:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:46:41] [Server thread/INFO]: Using default channel type
-[12:46:41] [Server thread/INFO]: Preparing level "Server"
-[12:46:42] [Server thread/INFO]: Loaded 488 advancements
-[12:46:42] [Server thread/INFO]: Preparing start region for level 0
-[12:46:43] [Server thread/INFO]: Preparing spawn area: 7%
-[12:46:43] [Server thread/INFO]: Done (2,179s)! For help, type "help" or "?"
-[12:56:49] [User Authenticator #1/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
-[12:56:49] [Server thread/INFO]: QeaZz[/25.82.227.42:55492] logged in with entity id 354 at (579.3000000119209, 77.0, 17.285497273075066)
-[12:56:49] [Server thread/INFO]: QeaZz joined the game
-[14:22:07] [Server thread/INFO]: QeaZz lost connection: Disconnected
-[14:22:07] [Server thread/INFO]: QeaZz left the game
-[17:07:35] [User Authenticator #2/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
-[17:07:35] [Server thread/INFO]: QeaZz[/25.82.227.42:56283] logged in with entity id 52558 at (582.1193703685992, 76.0, 17.962724105884323)
-[17:07:35] [Server thread/INFO]: QeaZz joined the game
-[17:18:05] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[17:18:13] [Server thread/INFO]: Set the time to 0
-[17:44:13] [Server thread/INFO]: QeaZz has made the advancement [Hot Stuff]
-[18:17:15] [Server thread/INFO]: Set the time to 0
-[19:12:11] [Server thread/INFO]: Changing to clear weather
-[20:51:52] [Server thread/INFO]: Set the time to 0
-[21:02:44] [Server thread/INFO]: QeaZz has made the advancement [Suit Up]
-[21:04:19] [Server thread/INFO]: QeaZz has made the advancement [Not Today, Thank You]
-[21:09:39] [Server thread/INFO]: QeaZz lost connection: Disconnected
-[21:09:39] [Server thread/INFO]: QeaZz left the game
-[21:09:49] [Server thread/INFO]: Stopping the server
-[21:09:49] [Server thread/INFO]: Stopping server
-[21:09:49] [Server thread/INFO]: Saving players
-[21:09:49] [Server thread/INFO]: Saving worlds
-[21:09:49] [Server thread/INFO]: Saving chunks for level 'Server'/overworld
-[21:09:49] [Server thread/INFO]: Saving chunks for level 'Server'/the_nether
-[21:09:49] [Server thread/INFO]: Saving chunks for level 'Server'/the_end
-[21:09:49] [Server Shutdown Thread/INFO]: Stopping server
-[21:09:49] [Server Shutdown Thread/INFO]: Saving players
-[21:09:49] [Server Shutdown Thread/INFO]: Saving worlds
-[21:09:49] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/overworld
-[21:09:49] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_nether
-[21:09:49] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_end
+[11:11:40] [Server thread/INFO]: Default game type: SURVIVAL
+[11:11:40] [Server thread/INFO]: Generating keypair
+[11:11:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:11:40] [Server thread/INFO]: Using default channel type
+[11:11:40] [Server thread/INFO]: Preparing level "Server"
+[11:11:40] [Server thread/INFO]: Loaded 488 advancements
+[11:11:40] [Server thread/INFO]: Preparing start region for level 0
+[11:11:41] [Server thread/INFO]: Preparing spawn area: 54%
+[11:11:42] [Server thread/INFO]: Done (1,564s)! For help, type "help" or "?"
+[11:12:12] [User Authenticator #1/INFO]: UUID of player Hompan is 735add46-12f1-4ae5-a77d-c955c682a7cf
+[11:12:12] [Server thread/INFO]: Hompan[/25.59.55.169:50585] logged in with entity id 351 at (517.6729058123874, 75.0, -8.870403527371534)
+[11:12:12] [Server thread/INFO]: Hompan joined the game
+[11:12:41] [User Authenticator #2/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
+[11:12:41] [Server thread/INFO]: QeaZz[/25.82.227.42:56232] logged in with entity id 1063 at (579.3000000119209, 77.0, 17.78959781578249)
+[11:12:41] [Server thread/INFO]: QeaZz joined the game
+[11:12:43] [Server thread/INFO]: [Hompan: Set the time to 0]
+[11:24:22] [Server thread/INFO]: [Hompan: Set the time to 0]
+[11:32:48] [Server thread/INFO]: Hompan has made the advancement [Local Brewery]
+[11:32:52] [Server thread/INFO]: QeaZz has made the advancement [Local Brewery]
+[11:36:17] [Server thread/INFO]: [Hompan: Set the time to 0]
+[12:04:08] [Server thread/INFO]: Hompan was slain by Enderman
+[12:04:33] [Server thread/INFO]: <QeaZz> -27 12 206
+[12:28:09] [Server thread/INFO]: [Hompan: Set the time to 0]
+[12:45:16] [Server thread/INFO]: [Hompan: Set the time to 0]
+[12:45:59] [Server thread/INFO]: QeaZz lost connection: Disconnected
+[12:45:59] [Server thread/INFO]: QeaZz left the game
+[12:46:02] [Server thread/INFO]: Hompan lost connection: Disconnected
+[12:46:02] [Server thread/INFO]: Hompan left the game
+[12:46:11] [Server thread/INFO]: Stopping the server
+[12:46:11] [Server thread/INFO]: Stopping server
+[12:46:11] [Server thread/INFO]: Saving players
+[12:46:11] [Server thread/INFO]: Saving worlds
+[12:46:11] [Server thread/INFO]: Saving chunks for level 'Server'/overworld
+[12:46:11] [Server thread/INFO]: Saving chunks for level 'Server'/the_nether
+[12:46:11] [Server thread/INFO]: Saving chunks for level 'Server'/the_end
+[12:46:11] [Server Shutdown Thread/INFO]: Stopping server
+[12:46:11] [Server Shutdown Thread/INFO]: Saving players
+[12:46:11] [Server Shutdown Thread/INFO]: Saving worlds
+[12:46:11] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/overworld
+[12:46:11] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_nether
+[12:46:11] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_end
