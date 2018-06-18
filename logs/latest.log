@@ -1,31 +1,147 @@
-[00:28:46] [Server thread/INFO]: Set the time to 0
-[00:50:08] [Server thread/INFO]: <Sp0of27> fan ta
-[01:46:51] [User Authenticator #11/INFO]: UUID of player Hompan is 735add46-12f1-4ae5-a77d-c955c682a7cf
-[01:46:51] [Server thread/INFO]: Hompan[/25.59.55.169:49271] logged in with entity id 931924 at (481.67339915390414, 64.0, -55.84952202270091)
-[01:46:51] [Server thread/INFO]: Hompan joined the game
-[01:50:06] [Server thread/INFO]: [Hompan: Set own game mode to Creative Mode]
-[01:52:55] [Server thread/INFO]: [Hompan: Set own game mode to Survival Mode]
-[01:53:05] [Server thread/INFO]: [Hompan: Set the time to 0]
-[01:56:09] [Server thread/INFO]: Hompan has made the advancement [What a Deal!]
-[02:03:51] [Server thread/INFO]: <Sp0of27> zz
-[02:04:31] [Server thread/INFO]: Set the time to 0
-[02:04:31] [Server thread/WARN]: Sp0of27 moved wrongly!
-[02:15:28] [Server thread/INFO]: [Hompan: Set the time to 0]
-[02:19:02] [Server thread/INFO]: Hompan lost connection: Disconnected
-[02:19:02] [Server thread/INFO]: Hompan left the game
-[02:47:07] [Server thread/INFO]: Sp0of27 has made the advancement [Cover Me With Diamonds]
-[02:54:45] [Server thread/INFO]: Sp0of27 lost connection: Disconnected
-[02:54:45] [Server thread/INFO]: Sp0of27 left the game
-[02:54:54] [Server thread/INFO]: Stopping the server
-[02:54:54] [Server thread/INFO]: Stopping server
-[02:54:54] [Server thread/INFO]: Saving players
-[02:54:54] [Server thread/INFO]: Saving worlds
-[02:54:54] [Server thread/INFO]: Saving chunks for level 'Server'/overworld
-[02:54:54] [Server thread/INFO]: Saving chunks for level 'Server'/the_nether
-[02:54:54] [Server thread/INFO]: Saving chunks for level 'Server'/the_end
-[02:54:54] [Server Shutdown Thread/INFO]: Stopping server
-[02:54:54] [Server Shutdown Thread/INFO]: Saving players
-[02:54:54] [Server Shutdown Thread/INFO]: Saving worlds
-[02:54:54] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/overworld
-[02:54:54] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_nether
-[02:54:54] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_end
+[09:14:23] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[09:14:23] [Server thread/INFO]: Loading properties
+[09:14:23] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Referensen (handle) är felaktig
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_111]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
+	at nz$2.run(SourceFile:100) [server.jar:?]
+[09:14:23] [Server thread/INFO]: Default game type: SURVIVAL
+[09:14:23] [Server thread/INFO]: Generating keypair
+[09:14:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:14:23] [Server thread/INFO]: Using default channel type
+[09:14:23] [Server thread/INFO]: Preparing level "Server"
+[09:14:23] [Server thread/INFO]: Loaded 488 advancements
+[09:14:23] [Server thread/INFO]: Preparing start region for level 0
+[09:14:25] [Server thread/INFO]: Preparing spawn area: 57%
+[09:14:25] [Server thread/INFO]: Done (1,656s)! For help, type "help" or "?"
+[09:15:03] [User Authenticator #1/INFO]: UUID of player Hompan is 735add46-12f1-4ae5-a77d-c955c682a7cf
+[09:15:03] [Server thread/INFO]: Hompan[/25.59.55.169:51198] logged in with entity id 429 at (486.1255067590685, 67.0, -59.21755428268293)
+[09:15:03] [Server thread/INFO]: Hompan joined the game
+[09:23:53] [Server thread/INFO]: Hompan lost connection: Disconnected
+[09:23:53] [Server thread/INFO]: Hompan left the game
+[09:35:38] [User Authenticator #2/INFO]: UUID of player Hompan is 735add46-12f1-4ae5-a77d-c955c682a7cf
+[09:35:38] [Server thread/INFO]: Hompan[/25.59.55.169:51896] logged in with entity id 22652 at (484.3555323017918, 67.0, -73.81404106209496)
+[09:35:38] [Server thread/INFO]: Hompan joined the game
+[09:37:10] [Server thread/INFO]: Hompan lost connection: Disconnected
+[09:37:10] [Server thread/INFO]: Hompan left the game
+[10:05:31] [User Authenticator #3/INFO]: UUID of player Hompan is 735add46-12f1-4ae5-a77d-c955c682a7cf
+[10:05:31] [Server thread/INFO]: Hompan[/25.59.55.169:52967] logged in with entity id 24525 at (482.65636577140253, 65.0, -57.36209118331726)
+[10:05:31] [Server thread/INFO]: Hompan joined the game
+[10:07:07] [Server thread/INFO]: Hompan lost connection: Disconnected
+[10:07:07] [Server thread/INFO]: Hompan left the game
+[10:30:03] [User Authenticator #4/INFO]: UUID of player Hompan is 735add46-12f1-4ae5-a77d-c955c682a7cf
+[10:30:03] [Server thread/INFO]: Hompan[/25.59.55.169:54828] logged in with entity id 26549 at (475.914232274793, 66.0, -63.0984823698553)
+[10:30:03] [Server thread/INFO]: Hompan joined the game
+[10:31:21] [Server thread/INFO]: Hompan lost connection: Disconnected
+[10:31:21] [Server thread/INFO]: Hompan left the game
+[12:45:48] [User Authenticator #5/INFO]: UUID of player Sp0of27 is 8a5de995-9bb5-4f68-ac50-f9847b7dc5af
+[12:45:48] [Server thread/INFO]: Sp0of27[/25.59.146.175:49998] logged in with entity id 28088 at (383.05599890474326, 65.0, 25.258459527445815)
+[12:45:48] [Server thread/INFO]: Sp0of27 joined the game
+[12:50:55] [User Authenticator #6/INFO]: UUID of player Hompan is 735add46-12f1-4ae5-a77d-c955c682a7cf
+[12:50:55] [Server thread/INFO]: Hompan[/25.59.55.169:57245] logged in with entity id 42116 at (483.6531925391814, 66.9375, -78.6896629463814)
+[12:50:55] [Server thread/INFO]: Hompan joined the game
+[12:58:35] [Server thread/INFO]: [Hompan: Set the time to 0]
+[12:58:57] [Server thread/INFO]: [Hompan: Game rule mobGriefing has been updated to false]
+[12:59:02] [Server thread/INFO]: [Hompan: Game rule mobGriefing has been updated to true]
+[13:05:41] [Server thread/INFO]: [Hompan: Game rule mobGriefing has been updated to false]
+[13:05:42] [Server thread/INFO]: Hompan lost connection: Disconnected
+[13:05:42] [Server thread/INFO]: Hompan left the game
+[13:12:25] [Server thread/INFO]: Game rule Mobgriefing has been updated to true
+[13:14:07] [User Authenticator #7/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
+[13:14:07] [Server thread/INFO]: QeaZz[/25.82.227.42:54171] logged in with entity id 94109 at (414.69999998807907, 81.0, 34.69999998807907)
+[13:14:07] [Server thread/INFO]: QeaZz joined the game
+[13:17:40] [Server thread/WARN]: QeaZz moved too quickly! -436.60509735077295,-13.0,74.80271163526365
+[13:22:04] [Server thread/WARN]: Sp0of27 moved too quickly! 436.2043120144499,13.0,-73.80000001192093
+[13:26:29] [Server thread/WARN]: Sp0of27 moved too quickly! -436.947695800228,-13.0,74.897930006475
+[13:26:52] [Server thread/INFO]: <Sp0of27> 56 52 -15
+[13:27:25] [User Authenticator #8/INFO]: UUID of player Hompan is 735add46-12f1-4ae5-a77d-c955c682a7cf
+[13:27:25] [Server thread/INFO]: Hompan[/25.59.55.169:57504] logged in with entity id 115962 at (483.2778646399346, 67.0, -50.543148065549275)
+[13:27:25] [Server thread/INFO]: Hompan joined the game
+[13:28:09] [Server thread/INFO]: [Hompan: Game rule keepInventory has been updated to true]
+[13:32:34] [Server thread/INFO]: [Hompan: Set the time to 0]
+[13:37:24] [Server thread/INFO]: Hompan lost connection: Disconnected
+[13:37:24] [Server thread/INFO]: Hompan left the game
+[13:40:07] [Server thread/INFO]: Sp0of27 has completed the challenge [Return to Sender]
+[13:40:43] [Server thread/INFO]: Sp0of27 burned to death
+[13:41:03] [Server thread/WARN]: Sp0of27 moved too quickly! -436.8393905052785,-13.0,74.97994713850794
+[13:42:12] [Server thread/INFO]: Sp0of27 lost connection: Disconnected
+[13:42:12] [Server thread/INFO]: Sp0of27 left the game
+[13:50:12] [Server thread/WARN]: QeaZz moved too quickly! 435.7046159765521,13.0,-73.80000001192091
+[13:53:25] [Server thread/INFO]: QeaZz lost connection: Disconnected
+[13:53:25] [Server thread/INFO]: QeaZz left the game
+[14:24:41] [User Authenticator #9/INFO]: UUID of player Sp0of27 is 8a5de995-9bb5-4f68-ac50-f9847b7dc5af
+[14:24:42] [Server thread/INFO]: Sp0of27[/25.59.146.175:50643] logged in with entity id 154892 at (-112.13244821578037, 67.0, -103.41744787897633)
+[14:24:42] [Server thread/INFO]: Sp0of27 joined the game
+[14:26:09] [Server thread/INFO]: Sp0of27 has made the advancement [Spooky Scary Skeleton]
+[14:27:27] [Server thread/INFO]: Sp0of27 lost connection: Disconnected
+[14:27:27] [Server thread/INFO]: Sp0of27 left the game
+[14:29:31] [User Authenticator #10/INFO]: UUID of player Sp0of27 is 8a5de995-9bb5-4f68-ac50-f9847b7dc5af
+[14:29:31] [Server thread/INFO]: Sp0of27[/25.59.146.175:50689] logged in with entity id 156922 at (-143.92500001192093, 68.0, -188.30000001192093)
+[14:29:31] [Server thread/INFO]: Sp0of27 joined the game
+[14:48:10] [Server thread/WARN]: Sp0of27 moved too quickly! 436.7675707091977,13.0,-74.7072755309344
+[15:05:25] [Server thread/INFO]: Sp0of27 lost connection: Disconnected
+[15:05:25] [Server thread/INFO]: Sp0of27 left the game
+[16:01:27] [User Authenticator #11/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
+[16:01:27] [Server thread/INFO]: QeaZz[/25.82.227.42:55839] logged in with entity id 203359 at (585.1786638094347, 70.0, 3.8223459212896747)
+[16:01:27] [Server thread/INFO]: QeaZz joined the game
+[16:06:49] [User Authenticator #12/INFO]: UUID of player Hompan is 735add46-12f1-4ae5-a77d-c955c682a7cf
+[16:06:49] [Server thread/INFO]: Hompan[/25.59.55.169:61647] logged in with entity id 208168 at (116.42315045211777, 65.0, 305.88999746908064)
+[16:06:49] [Server thread/INFO]: Hompan joined the game
+[16:12:59] [Server thread/INFO]: [Hompan: Set the time to 0]
+[16:13:35] [Server thread/INFO]: [Hompan: Changing to clear weather]
+[16:15:31] [Server thread/INFO]: QeaZz lost connection: Disconnected
+[16:15:31] [Server thread/INFO]: QeaZz left the game
+[16:15:34] [Server thread/INFO]: Hompan lost connection: Disconnected
+[16:15:34] [Server thread/INFO]: Hompan left the game
+[18:13:07] [User Authenticator #13/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
+[18:13:08] [Server thread/INFO]: QeaZz[/25.82.227.42:59040] logged in with entity id 225734 at (579.8652320780253, 77.0, 17.77737856751424)
+[18:13:08] [Server thread/INFO]: QeaZz joined the game
+[18:20:20] [Server thread/INFO]: QeaZz lost connection: Disconnected
+[18:20:20] [Server thread/INFO]: QeaZz left the game
+[18:20:29] [User Authenticator #14/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
+[18:20:29] [Server thread/INFO]: QeaZz[/25.82.227.42:59144] logged in with entity id 231229 at (588.5203129866937, 63.0, -52.7232334105786)
+[18:20:29] [Server thread/INFO]: QeaZz joined the game
+[18:30:13] [User Authenticator #15/INFO]: UUID of player Hompan is 735add46-12f1-4ae5-a77d-c955c682a7cf
+[18:30:14] [Server thread/INFO]: Hompan[/25.59.55.169:49213] logged in with entity id 237032 at (483.18939506284653, 67.0, -74.59944633814715)
+[18:30:14] [Server thread/INFO]: Hompan joined the game
+[18:30:21] [Server thread/INFO]: [Hompan: Set the time to 0]
+[18:36:40] [User Authenticator #16/INFO]: UUID of player Sp0of27 is 8a5de995-9bb5-4f68-ac50-f9847b7dc5af
+[18:36:40] [Server thread/INFO]: Sp0of27[/25.59.146.175:50073] logged in with entity id 247090 at (377.3515281561398, 66.9375, 9.923165140388338)
+[18:36:40] [Server thread/INFO]: Sp0of27 joined the game
+[18:40:44] [Server thread/INFO]: [Hompan: Set the time to 0]
+[18:42:05] [Server thread/INFO]: [Hompan: Game rule Mobgriefing has been updated to true]
+[18:42:31] [Server thread/INFO]: [Hompan: Game rule mobGriefing has been updated to true]
+[18:42:40] [Server thread/INFO]: [Hompan: Game rule keepInventory has been updated to true]
+[18:43:05] [Server thread/INFO]: Hompan lost connection: Disconnected
+[18:43:05] [Server thread/INFO]: Hompan left the game
+[19:14:12] [Server thread/INFO]: Sp0of27 lost connection: Disconnected
+[19:14:12] [Server thread/INFO]: Sp0of27 left the game
+[19:24:09] [User Authenticator #17/INFO]: UUID of player Sp0of27 is 8a5de995-9bb5-4f68-ac50-f9847b7dc5af
+[19:24:09] [Server thread/INFO]: Sp0of27[/25.59.146.175:50201] logged in with entity id 338509 at (488.24211228371803, 24.0, 490.69999998807907)
+[19:24:09] [Server thread/INFO]: Sp0of27 joined the game
+[19:25:37] [Server thread/INFO]: Sp0of27 lost connection: Disconnected
+[19:25:37] [Server thread/INFO]: Sp0of27 left the game
+[19:25:48] [Server thread/INFO]: QeaZz lost connection: Disconnected
+[19:25:48] [Server thread/INFO]: QeaZz left the game
+[19:26:01] [Server thread/INFO]: Stopping the server
+[19:26:01] [Server thread/INFO]: Stopping server
+[19:26:01] [Server thread/INFO]: Saving players
+[19:26:01] [Server thread/INFO]: Saving worlds
+[19:26:01] [Server thread/INFO]: Saving chunks for level 'Server'/overworld
+[19:26:01] [Server thread/INFO]: Saving chunks for level 'Server'/the_nether
+[19:26:01] [Server thread/INFO]: Saving chunks for level 'Server'/the_end
+[19:26:01] [Server Shutdown Thread/INFO]: Stopping server
+[19:26:01] [Server Shutdown Thread/INFO]: Saving players
+[19:26:01] [Server Shutdown Thread/INFO]: Saving worlds
+[19:26:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/overworld
+[19:26:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_nether
+[19:26:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_end

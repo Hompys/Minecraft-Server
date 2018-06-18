@@ -584,6 +584,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2018-06-18 14:26:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_the_recipe": "2018-06-18 01:22:38 +0200"
@@ -692,6 +698,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2018-06-06 15:04:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2018-06-18 13:40:07 +0200"
     },
     "done": true
   },
@@ -941,9 +953,12 @@
       "zombie_villager": "2018-06-10 17:08:08 +0200",
       "magma_cube": "2018-06-10 15:00:38 +0200",
       "skeleton": "2018-06-06 19:55:41 +0200",
+      "blaze": "2018-06-18 13:29:43 +0200",
       "zombie": "2018-06-06 19:09:42 +0200",
       "silverfish": "2018-06-17 21:29:30 +0200",
+      "witch": "2018-06-18 19:24:48 +0200",
       "spider": "2018-06-06 20:07:19 +0200",
+      "ghast": "2018-06-18 13:40:07 +0200",
       "creeper": "2018-06-06 20:28:10 +0200",
       "enderman": "2018-06-18 01:48:02 +0200"
     },
@@ -1573,6 +1588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2018-06-18 13:31:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2018-06-17 22:56:52 +0200"
@@ -1829,6 +1850,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2018-06-08 19:38:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2018-06-18 13:17:01 +0200"
     },
     "done": true
   },
