@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2018-06-17 21:07:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2018-06-04 22:24:04 +0200"
@@ -179,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_the_recipe": "2018-06-17 22:56:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2018-06-10 15:04:24 +0200"
@@ -248,6 +260,15 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2018-06-10 15:04:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2018-06-18 02:47:07 +0200",
+      "diamond_helmet": "2018-06-18 02:47:07 +0200",
+      "diamond_chestplate": "2018-06-18 02:47:07 +0200",
+      "diamond_boots": "2018-06-18 02:47:07 +0200"
     },
     "done": true
   },
@@ -371,6 +392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2018-06-18 01:22:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2018-06-04 22:01:07 +0200"
@@ -419,6 +446,7 @@
       "porkchop": "2018-06-06 20:25:29 +0200",
       "apple": "2018-06-04 22:02:28 +0200",
       "potato": "2018-06-06 13:33:33 +0200",
+      "cooked_cod": "2018-06-17 21:31:49 +0200",
       "mutton": "2018-06-06 13:43:24 +0200",
       "bread": "2018-06-06 16:36:31 +0200"
     },
@@ -556,6 +584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2018-06-18 01:22:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-06-06 17:22:24 +0200"
@@ -607,6 +641,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2018-06-04 22:24:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2018-06-18 00:30:43 +0200"
     },
     "done": true
   },
@@ -751,6 +791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2018-06-17 22:56:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2018-06-04 21:16:35 +0200"
@@ -841,6 +887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2018-06-17 22:56:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2018-06-06 15:16:35 +0200"
@@ -890,8 +942,10 @@
       "magma_cube": "2018-06-10 15:00:38 +0200",
       "skeleton": "2018-06-06 19:55:41 +0200",
       "zombie": "2018-06-06 19:09:42 +0200",
+      "silverfish": "2018-06-17 21:29:30 +0200",
       "spider": "2018-06-06 20:07:19 +0200",
-      "creeper": "2018-06-06 20:28:10 +0200"
+      "creeper": "2018-06-06 20:28:10 +0200",
+      "enderman": "2018-06-18 01:48:02 +0200"
     },
     "done": false
   },
@@ -922,6 +976,12 @@
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2018-06-10 22:43:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2018-06-17 22:56:57 +0200"
     },
     "done": true
   },
@@ -1060,6 +1120,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2018-06-04 22:26:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2018-06-18 00:30:43 +0200"
     },
     "done": true
   },
@@ -1279,6 +1345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2018-06-17 21:07:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2018-06-04 22:24:04 +0200"
@@ -1483,6 +1555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2018-06-17 22:56:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2018-06-04 22:24:04 +0200"
@@ -1492,6 +1570,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2018-06-06 13:13:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2018-06-17 22:56:52 +0200"
     },
     "done": true
   },
@@ -1516,6 +1600,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2018-06-06 20:27:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2018-06-17 22:56:52 +0200"
     },
     "done": true
   },
@@ -1805,6 +1895,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2018-06-10 15:04:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2018-06-17 22:56:52 +0200"
     },
     "done": true
   },

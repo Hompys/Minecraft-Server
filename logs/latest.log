@@ -1,57 +1,31 @@
-[11:11:40] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[11:11:40] [Server thread/INFO]: Loading properties
-[11:11:40] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Referensen (handle) är felaktig
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_111]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_111]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_111]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_111]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_111]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_111]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_111]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_111]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_111]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
-	at nz$2.run(SourceFile:100) [server.jar:?]
-[11:11:40] [Server thread/INFO]: Default game type: SURVIVAL
-[11:11:40] [Server thread/INFO]: Generating keypair
-[11:11:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:11:40] [Server thread/INFO]: Using default channel type
-[11:11:40] [Server thread/INFO]: Preparing level "Server"
-[11:11:40] [Server thread/INFO]: Loaded 488 advancements
-[11:11:40] [Server thread/INFO]: Preparing start region for level 0
-[11:11:41] [Server thread/INFO]: Preparing spawn area: 54%
-[11:11:42] [Server thread/INFO]: Done (1,564s)! For help, type "help" or "?"
-[11:12:12] [User Authenticator #1/INFO]: UUID of player Hompan is 735add46-12f1-4ae5-a77d-c955c682a7cf
-[11:12:12] [Server thread/INFO]: Hompan[/25.59.55.169:50585] logged in with entity id 351 at (517.6729058123874, 75.0, -8.870403527371534)
-[11:12:12] [Server thread/INFO]: Hompan joined the game
-[11:12:41] [User Authenticator #2/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
-[11:12:41] [Server thread/INFO]: QeaZz[/25.82.227.42:56232] logged in with entity id 1063 at (579.3000000119209, 77.0, 17.78959781578249)
-[11:12:41] [Server thread/INFO]: QeaZz joined the game
-[11:12:43] [Server thread/INFO]: [Hompan: Set the time to 0]
-[11:24:22] [Server thread/INFO]: [Hompan: Set the time to 0]
-[11:32:48] [Server thread/INFO]: Hompan has made the advancement [Local Brewery]
-[11:32:52] [Server thread/INFO]: QeaZz has made the advancement [Local Brewery]
-[11:36:17] [Server thread/INFO]: [Hompan: Set the time to 0]
-[12:04:08] [Server thread/INFO]: Hompan was slain by Enderman
-[12:04:33] [Server thread/INFO]: <QeaZz> -27 12 206
-[12:28:09] [Server thread/INFO]: [Hompan: Set the time to 0]
-[12:45:16] [Server thread/INFO]: [Hompan: Set the time to 0]
-[12:45:59] [Server thread/INFO]: QeaZz lost connection: Disconnected
-[12:45:59] [Server thread/INFO]: QeaZz left the game
-[12:46:02] [Server thread/INFO]: Hompan lost connection: Disconnected
-[12:46:02] [Server thread/INFO]: Hompan left the game
-[12:46:11] [Server thread/INFO]: Stopping the server
-[12:46:11] [Server thread/INFO]: Stopping server
-[12:46:11] [Server thread/INFO]: Saving players
-[12:46:11] [Server thread/INFO]: Saving worlds
-[12:46:11] [Server thread/INFO]: Saving chunks for level 'Server'/overworld
-[12:46:11] [Server thread/INFO]: Saving chunks for level 'Server'/the_nether
-[12:46:11] [Server thread/INFO]: Saving chunks for level 'Server'/the_end
-[12:46:11] [Server Shutdown Thread/INFO]: Stopping server
-[12:46:11] [Server Shutdown Thread/INFO]: Saving players
-[12:46:11] [Server Shutdown Thread/INFO]: Saving worlds
-[12:46:11] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/overworld
-[12:46:11] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_nether
-[12:46:11] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_end
+[00:28:46] [Server thread/INFO]: Set the time to 0
+[00:50:08] [Server thread/INFO]: <Sp0of27> fan ta
+[01:46:51] [User Authenticator #11/INFO]: UUID of player Hompan is 735add46-12f1-4ae5-a77d-c955c682a7cf
+[01:46:51] [Server thread/INFO]: Hompan[/25.59.55.169:49271] logged in with entity id 931924 at (481.67339915390414, 64.0, -55.84952202270091)
+[01:46:51] [Server thread/INFO]: Hompan joined the game
+[01:50:06] [Server thread/INFO]: [Hompan: Set own game mode to Creative Mode]
+[01:52:55] [Server thread/INFO]: [Hompan: Set own game mode to Survival Mode]
+[01:53:05] [Server thread/INFO]: [Hompan: Set the time to 0]
+[01:56:09] [Server thread/INFO]: Hompan has made the advancement [What a Deal!]
+[02:03:51] [Server thread/INFO]: <Sp0of27> zz
+[02:04:31] [Server thread/INFO]: Set the time to 0
+[02:04:31] [Server thread/WARN]: Sp0of27 moved wrongly!
+[02:15:28] [Server thread/INFO]: [Hompan: Set the time to 0]
+[02:19:02] [Server thread/INFO]: Hompan lost connection: Disconnected
+[02:19:02] [Server thread/INFO]: Hompan left the game
+[02:47:07] [Server thread/INFO]: Sp0of27 has made the advancement [Cover Me With Diamonds]
+[02:54:45] [Server thread/INFO]: Sp0of27 lost connection: Disconnected
+[02:54:45] [Server thread/INFO]: Sp0of27 left the game
+[02:54:54] [Server thread/INFO]: Stopping the server
+[02:54:54] [Server thread/INFO]: Stopping server
+[02:54:54] [Server thread/INFO]: Saving players
+[02:54:54] [Server thread/INFO]: Saving worlds
+[02:54:54] [Server thread/INFO]: Saving chunks for level 'Server'/overworld
+[02:54:54] [Server thread/INFO]: Saving chunks for level 'Server'/the_nether
+[02:54:54] [Server thread/INFO]: Saving chunks for level 'Server'/the_end
+[02:54:54] [Server Shutdown Thread/INFO]: Stopping server
+[02:54:54] [Server Shutdown Thread/INFO]: Saving players
+[02:54:54] [Server Shutdown Thread/INFO]: Saving worlds
+[02:54:54] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/overworld
+[02:54:54] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_nether
+[02:54:54] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_end
