@@ -1,6 +1,6 @@
-[11:36:35] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[11:36:35] [Server thread/INFO]: Loading properties
-[11:36:35] [Server console handler/ERROR]: Exception handling console input
+[14:00:34] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[14:00:34] [Server thread/INFO]: Loading properties
+[14:00:34] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: Referensen (handle) är felaktig
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_131]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_131]
@@ -14,115 +14,81 @@ java.io.IOException: Referensen (handle) är felaktig
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_131]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_131]
 	at nz$2.run(SourceFile:100) [server.jar:?]
-[11:36:35] [Server thread/INFO]: Default game type: SURVIVAL
-[11:36:35] [Server thread/INFO]: Generating keypair
-[11:36:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:36:35] [Server thread/INFO]: Using default channel type
-[11:36:36] [Server thread/INFO]: Preparing level "Server"
-[11:36:36] [Server thread/INFO]: Loaded 488 advancements
-[11:36:36] [Server thread/INFO]: Preparing start region for level 0
-[11:36:37] [Server thread/INFO]: Preparing spawn area: 0%
-[11:36:38] [Server thread/INFO]: Preparing spawn area: 56%
-[11:36:39] [Server thread/INFO]: Done (3,223s)! For help, type "help" or "?"
-[11:41:27] [User Authenticator #1/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
-[11:41:27] [Server thread/INFO]: QeaZz[/25.82.227.42:64516] logged in with entity id 448 at (530.1042390299356, 18.0, -12.954636924745426)
-[11:41:27] [Server thread/INFO]: QeaZz joined the game
-[11:41:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2540ms behind, skipping 50 tick(s)
-[12:48:09] [Server thread/INFO]: QeaZz lost connection: Disconnected
-[12:48:09] [Server thread/INFO]: QeaZz left the game
-[12:55:47] [User Authenticator #2/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
-[12:55:47] [Server thread/INFO]: QeaZz[/25.82.227.42:65193] logged in with entity id 87583 at (582.0106392967728, 76.0, 18.829938675463804)
-[12:55:47] [Server thread/INFO]: QeaZz joined the game
-[13:00:36] [Server thread/INFO]: QeaZz lost connection: Disconnected
-[13:00:36] [Server thread/INFO]: QeaZz left the game
-[16:03:24] [User Authenticator #3/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
-[16:03:25] [Server thread/INFO]: QeaZz[/25.82.227.42:50300] logged in with entity id 100675 at (580.5341637180586, 76.0, 18.532976210263534)
-[16:03:25] [Server thread/INFO]: QeaZz joined the game
-[16:03:35] [Server thread/INFO]: QeaZz lost connection: Disconnected
-[16:03:35] [Server thread/INFO]: QeaZz left the game
-[16:13:56] [User Authenticator #4/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
-[16:13:56] [Server thread/INFO]: QeaZz[/25.82.227.42:50432] logged in with entity id 101160 at (579.3000000119209, 77.0, 17.382024683740163)
-[16:13:56] [Server thread/INFO]: QeaZz joined the game
-[16:14:13] [Server thread/INFO]: Changing to clear weather
-[16:22:31] [Server thread/INFO]: Changing to clear weather
-[16:28:19] [Server thread/INFO]: Set the time to 0
-[16:28:23] [Server thread/INFO]: Changing to clear weather
-[16:40:47] [Server thread/INFO]: Changing to clear weather
-[16:40:53] [Server thread/INFO]: Usage: /time <set|add|query> <value>
-[16:40:56] [Server thread/INFO]: Set the time to 0
-[16:48:52] [Server thread/INFO]: Changing to clear weather
-[16:48:57] [Server thread/INFO]: Set the time to 0
-[17:10:35] [Server thread/INFO]: Changing to clear weather
-[17:20:01] [Server thread/INFO]: Set the time to 0
-[19:09:08] [Server thread/INFO]: QeaZz lost connection: Disconnected
-[19:09:08] [Server thread/INFO]: QeaZz left the game
-[19:09:15] [User Authenticator #5/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
-[19:09:15] [Server thread/INFO]: QeaZz[/25.82.227.42:51944] logged in with entity id 363845 at (643.4653726042202, 93.0, 16.246744063539843)
-[19:09:15] [Server thread/INFO]: QeaZz joined the game
-[19:10:44] [Server thread/INFO]: Set the time to 0
-[19:12:28] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[19:12:35] [Server thread/INFO]: Changing to clear weather
-[19:12:42] [Server thread/INFO]: Set the time to 0
-[19:27:21] [Server thread/INFO]: Set the time to 0
-[19:27:34] [Server thread/INFO]: Changing to clear weather
-[19:36:24] [User Authenticator #6/INFO]: UUID of player Sp0of27 is 8a5de995-9bb5-4f68-ac50-f9847b7dc5af
-[19:36:24] [Server thread/INFO]: Sp0of27[/25.59.146.175:52884] logged in with entity id 415275 at (367.6859253674898, 63.0, 78.3056678827617)
-[19:36:24] [Server thread/INFO]: Sp0of27 joined the game
-[19:36:36] [Server thread/INFO]: <QeaZz> tja
-[19:36:38] [Server thread/INFO]: <Sp0of27> Hello :)
-[19:38:39] [Server thread/INFO]: <Sp0of27> zz
-[19:38:48] [Server thread/INFO]: Set the time to 0
-[19:38:48] [Server thread/WARN]: Sp0of27 moved wrongly!
-[19:39:09] [Server thread/INFO]: Changing to clear weather
-[19:49:13] [Server thread/INFO]: Changing to clear weather
-[19:50:08] [Server thread/INFO]: <Sp0of27> zz
-[19:50:15] [Server thread/INFO]: Set the time to 0
-[19:50:15] [Server thread/WARN]: Sp0of27 moved wrongly!
-[19:50:21] [Server thread/INFO]: <Sp0of27> :)
-[19:50:47] [Server thread/INFO]: Sp0of27 lost connection: Disconnected
-[19:50:47] [Server thread/INFO]: Sp0of27 left the game
-[20:00:44] [Server thread/INFO]: Set the time to 0
-[20:05:08] [Server thread/INFO]: Changing to clear weather
-[20:11:13] [Server thread/INFO]: Changing to clear weather
-[20:11:36] [Server thread/INFO]: Set the time to 0
-[20:24:29] [Server thread/INFO]: Changing to clear weather
-[20:24:32] [Server thread/INFO]: Set the time to 0
-[20:38:10] [Server thread/INFO]: Set the time to 0
-[20:38:28] [Server thread/INFO]: Changing to clear weather
-[20:46:02] [Server thread/INFO]: Changing to clear weather
-[20:48:51] [Server thread/INFO]: Set the time to 0
-[20:59:09] [Server thread/INFO]: Changing to clear weather
-[20:59:11] [Server thread/INFO]: Set the time to 0
-[21:09:39] [Server thread/INFO]: Set the time to 0
-[21:13:18] [Server thread/INFO]: Changing to clear weather
-[21:13:22] [Server thread/INFO]: Set the time to 0
-[21:26:53] [Server thread/INFO]: Changing to clear weather
-[21:26:56] [Server thread/INFO]: Set the time to 0
-[21:38:02] [Server thread/INFO]: Set the time to 0
-[21:44:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2006ms behind, skipping 40 tick(s)
-[21:44:03] [Server thread/WARN]: QeaZz moved too quickly! -436.4473048034524,-13.0,74.23400951556086
-[22:37:28] [Server thread/WARN]: QeaZz moved too quickly! 437.05707915032997,13.0,-74.39353498330516
-[22:40:26] [Server thread/WARN]: QeaZz moved wrongly!
-[22:54:59] [Server thread/INFO]: Set the time to 0
-[23:13:40] [Server thread/INFO]: QeaZz lost connection: Disconnected
-[23:13:40] [Server thread/INFO]: QeaZz left the game
-[23:34:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@65dfce87[id=<null>,name=QeaZz,properties={},legacy=false] (/25.82.227.42:54277) lost connection: Disconnected
-[23:34:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@3451529[id=<null>,name=QeaZz,properties={},legacy=false] (/25.82.227.42:54280) lost connection: Disconnected
-[23:35:37] [User Authenticator #7/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
-[23:35:37] [Server thread/INFO]: QeaZz[/25.82.227.42:54366] logged in with entity id 767907 at (625.7461864826066, 104.0, 22.952166252822316)
-[23:35:37] [Server thread/INFO]: QeaZz joined the game
-[23:40:33] [Server thread/INFO]: QeaZz lost connection: Disconnected
-[23:40:33] [Server thread/INFO]: QeaZz left the game
-[23:40:41] [Server thread/INFO]: Stopping the server
-[23:40:41] [Server thread/INFO]: Stopping server
-[23:40:41] [Server thread/INFO]: Saving players
-[23:40:41] [Server thread/INFO]: Saving worlds
-[23:40:41] [Server thread/INFO]: Saving chunks for level 'Server'/overworld
-[23:40:41] [Server thread/INFO]: Saving chunks for level 'Server'/the_nether
-[23:40:41] [Server thread/INFO]: Saving chunks for level 'Server'/the_end
-[23:40:41] [Server Shutdown Thread/INFO]: Stopping server
-[23:40:41] [Server Shutdown Thread/INFO]: Saving players
-[23:40:41] [Server Shutdown Thread/INFO]: Saving worlds
-[23:40:41] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/overworld
-[23:40:41] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_nether
-[23:40:41] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_end
+[14:00:34] [Server thread/INFO]: Default game type: SURVIVAL
+[14:00:34] [Server thread/INFO]: Generating keypair
+[14:00:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:00:34] [Server thread/INFO]: Using default channel type
+[14:00:34] [Server thread/INFO]: Preparing level "Server"
+[14:00:35] [Server thread/INFO]: Loaded 488 advancements
+[14:00:35] [Server thread/INFO]: Preparing start region for level 0
+[14:00:36] [Server thread/INFO]: Preparing spawn area: 61%
+[14:00:36] [Server thread/INFO]: Done (1,926s)! For help, type "help" or "?"
+[14:00:47] [User Authenticator #1/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
+[14:00:47] [Server thread/INFO]: QeaZz[/25.82.227.42:51262] logged in with entity id 437 at (609.7724426251467, 63.0, 53.97753569936391)
+[14:00:48] [Server thread/INFO]: QeaZz joined the game
+[14:01:24] [Server thread/INFO]: QeaZz lost connection: Disconnected
+[14:01:24] [Server thread/INFO]: QeaZz left the game
+[16:37:02] [User Authenticator #2/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
+[16:37:02] [Server thread/INFO]: QeaZz[/25.82.227.42:52434] logged in with entity id 2521 at (600.8854209126683, 68.0, 31.87263700823008)
+[16:37:02] [Server thread/INFO]: QeaZz joined the game
+[16:37:41] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[16:37:51] [Server thread/INFO]: --- Showing help page 1 of 10 (/help <page>) ---
+[16:37:51] [Server thread/INFO]: /advancement <grant|revoke|test> <player>
+[16:37:51] [Server thread/INFO]: /ban <name> [reason ...]
+[16:37:51] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[16:37:51] [Server thread/INFO]: /banlist [ips|players]
+[16:37:51] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
+[16:37:51] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
+[16:37:51] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[16:37:51] [Server thread/INFO]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[16:38:10] [Server thread/INFO]: --- Showing help page 6 of 10 (/help <page>) ---
+[16:38:10] [Server thread/INFO]: /save-off
+[16:38:10] [Server thread/INFO]: /save-on
+[16:38:10] [Server thread/INFO]: /say <message ...>
+[16:38:10] [Server thread/INFO]: /scoreboard <objectives|players|teams> ...
+[16:38:10] [Server thread/INFO]: /seed
+[16:38:10] [Server thread/INFO]: /setblock <x> <y> <z> <block> [dataValue|state] [oldBlockHandling] [dataTag]
+[16:38:10] [Server thread/INFO]: /setidletimeout <minutes>
+[16:38:17] [Server thread/INFO]: --- Showing help page 4 of 10 (/help <page>) ---
+[16:38:17] [Server thread/INFO]: /kick <player> [reason ...]
+[16:38:17] [Server thread/INFO]: /kill [player|entity]
+[16:38:17] [Server thread/INFO]: /list
+[16:38:17] [Server thread/INFO]: /locate <feature>
+[16:38:17] [Server thread/INFO]: /me <action ...>
+[16:38:17] [Server thread/INFO]: /op <player>
+[16:38:17] [Server thread/INFO]: /pardon <name>
+[16:38:24] [Server thread/INFO]: --- Showing help page 3 of 10 (/help <page>) ---
+[16:38:24] [Server thread/INFO]: /execute <entity> <x> <y> <z> <command> OR /execute <entity> <x> <y> <z> detect <x> <y> <z> <block> <dataValue|-1|state|*> <command>
+[16:38:24] [Server thread/INFO]: /fill <x1> <y1> <z1> <x2> <y2> <z2> <block> [dataValue|state] [oldBlockHandling] [dataTag]
+[16:38:24] [Server thread/INFO]: /function <name> [if <selector>|unless <selector>]
+[16:38:24] [Server thread/INFO]: /gamemode <mode> [player]
+[16:38:24] [Server thread/INFO]: /gamerule <rule name> [value]
+[16:38:24] [Server thread/INFO]: /give <player> <item> [amount] [data] [dataTag]
+[16:38:24] [Server thread/INFO]: /help [page|command name]
+[16:38:35] [Server thread/INFO]: Set QeaZz's game mode to Creative Mode
+[16:51:39] [Server thread/INFO]: Set QeaZz's game mode to Survival Mode
+[16:55:36] [Server thread/INFO]: Set QeaZz's game mode to Creative Mode
+[17:50:26] [Server thread/INFO]: Set the time to 0
+[17:50:36] [Server thread/INFO]: Set QeaZz's game mode to Survival Mode
+[20:01:19] [Server thread/INFO]: Set the time to 0
+[20:17:21] [Server thread/INFO]: Changing to clear weather
+[20:20:34] [Server thread/INFO]: Set the time to 0
+[20:28:04] [Server thread/INFO]: Set QeaZz's game mode to Creative Mode
+[21:27:57] [Server thread/WARN]: QeaZz moved too quickly! -436.8429531848835,-13.0,74.59230000666035
+[21:29:21] [Server thread/WARN]: QeaZz moved too quickly! 437.4819414932802,13.0,-74.91305832302322
+[21:29:33] [Server thread/INFO]: Set QeaZz's game mode to Survival Mode
+[21:33:46] [Server thread/INFO]: QeaZz lost connection: Disconnected
+[21:33:46] [Server thread/INFO]: QeaZz left the game
+[21:33:55] [Server thread/INFO]: Stopping the server
+[21:33:55] [Server thread/INFO]: Stopping server
+[21:33:55] [Server thread/INFO]: Saving players
+[21:33:55] [Server thread/INFO]: Saving worlds
+[21:33:55] [Server thread/INFO]: Saving chunks for level 'Server'/overworld
+[21:33:55] [Server thread/INFO]: Saving chunks for level 'Server'/the_nether
+[21:33:55] [Server thread/INFO]: Saving chunks for level 'Server'/the_end
+[21:33:55] [Server Shutdown Thread/INFO]: Stopping server
+[21:33:55] [Server Shutdown Thread/INFO]: Saving players
+[21:33:55] [Server Shutdown Thread/INFO]: Saving worlds
+[21:33:55] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/overworld
+[21:33:55] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_nether
+[21:33:55] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_end
