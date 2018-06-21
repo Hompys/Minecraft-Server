@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2018-06-21 19:19:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2018-06-06 15:04:40 +0200"
@@ -622,6 +628,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "bred_sheep": "2018-06-21 22:39:03 +0200",
       "bred_cow": "2018-06-10 19:37:19 +0200"
     },
     "done": false
@@ -1790,6 +1797,12 @@
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2018-06-10 17:53:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2018-06-21 19:08:52 +0200"
     },
     "done": true
   },

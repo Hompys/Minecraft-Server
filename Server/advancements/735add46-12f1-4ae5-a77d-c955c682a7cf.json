@@ -373,6 +373,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2018-06-21 15:14:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2018-06-04 17:50:14 +0200"
@@ -422,6 +428,7 @@
       "potato": "2018-06-13 11:46:32 +0200",
       "pumpkin_pie": "2018-06-18 09:22:38 +0200",
       "bread": "2018-06-05 08:53:04 +0200",
+      "golden_apple": "2018-06-21 15:14:50 +0200",
       "cooked_chicken": "2018-06-10 16:55:52 +0200",
       "carrot": "2018-06-04 21:58:58 +0200"
     },
@@ -571,6 +578,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2018-06-21 15:13:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-06-04 18:26:03 +0200"
@@ -678,6 +691,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2018-06-04 18:21:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2018-06-21 15:15:29 +0200"
     },
     "done": true
   },
@@ -1289,6 +1308,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2018-06-04 18:26:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2018-06-21 20:23:57 +0200"
     },
     "done": true
   },
