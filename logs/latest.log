@@ -1,17 +1,20 @@
-[01:34:22] [Server thread/INFO]: [QeaZz: Set the time to 0]
-[01:45:27] [Server thread/INFO]: [QeaZz: Set the time to 0]
-[01:49:06] [Server thread/INFO]: QeaZz lost connection: Disconnected
-[01:49:06] [Server thread/INFO]: QeaZz left the game
-[01:49:15] [Server thread/INFO]: Stopping the server
-[01:49:15] [Server thread/INFO]: Stopping server
-[01:49:15] [Server thread/INFO]: Saving players
-[01:49:15] [Server thread/INFO]: Saving worlds
-[01:49:15] [Server thread/INFO]: Saving chunks for level 'Server'/overworld
-[01:49:15] [Server thread/INFO]: Saving chunks for level 'Server'/the_nether
-[01:49:15] [Server thread/INFO]: Saving chunks for level 'Server'/the_end
-[01:49:15] [Server Shutdown Thread/INFO]: Stopping server
-[01:49:15] [Server Shutdown Thread/INFO]: Saving players
-[01:49:15] [Server Shutdown Thread/INFO]: Saving worlds
-[01:49:15] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/overworld
-[01:49:15] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_nether
-[01:49:15] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_end
+[00:25:33] [User Authenticator #34/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
+[00:25:33] [Server thread/INFO]: QeaZz[/25.82.227.42:56350] logged in with entity id 4637927 at (458.21044380849474, 66.0, -79.31357091042071)
+[00:25:33] [Server thread/INFO]: QeaZz joined the game
+[00:26:23] [Server thread/INFO]: Sp0of27 lost connection: Disconnected
+[00:26:23] [Server thread/INFO]: Sp0of27 left the game
+[00:26:24] [Server thread/INFO]: QeaZz lost connection: Disconnected
+[00:26:24] [Server thread/INFO]: QeaZz left the game
+[00:26:28] [Server thread/INFO]: Stopping the server
+[00:26:28] [Server thread/INFO]: Stopping server
+[00:26:28] [Server thread/INFO]: Saving players
+[00:26:28] [Server thread/INFO]: Saving worlds
+[00:26:28] [Server thread/INFO]: Saving chunks for level 'Server'/overworld
+[00:26:28] [Server thread/INFO]: Saving chunks for level 'Server'/the_nether
+[00:26:28] [Server thread/INFO]: Saving chunks for level 'Server'/the_end
+[00:26:29] [Server Shutdown Thread/INFO]: Stopping server
+[00:26:29] [Server Shutdown Thread/INFO]: Saving players
+[00:26:29] [Server Shutdown Thread/INFO]: Saving worlds
+[00:26:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/overworld
+[00:26:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_nether
+[00:26:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_end
