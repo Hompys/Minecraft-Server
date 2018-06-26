@@ -1,20 +1,59 @@
-[00:25:33] [User Authenticator #34/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
-[00:25:33] [Server thread/INFO]: QeaZz[/25.82.227.42:56350] logged in with entity id 4637927 at (458.21044380849474, 66.0, -79.31357091042071)
-[00:25:33] [Server thread/INFO]: QeaZz joined the game
-[00:26:23] [Server thread/INFO]: Sp0of27 lost connection: Disconnected
-[00:26:23] [Server thread/INFO]: Sp0of27 left the game
-[00:26:24] [Server thread/INFO]: QeaZz lost connection: Disconnected
-[00:26:24] [Server thread/INFO]: QeaZz left the game
-[00:26:28] [Server thread/INFO]: Stopping the server
-[00:26:28] [Server thread/INFO]: Stopping server
-[00:26:28] [Server thread/INFO]: Saving players
-[00:26:28] [Server thread/INFO]: Saving worlds
-[00:26:28] [Server thread/INFO]: Saving chunks for level 'Server'/overworld
-[00:26:28] [Server thread/INFO]: Saving chunks for level 'Server'/the_nether
-[00:26:28] [Server thread/INFO]: Saving chunks for level 'Server'/the_end
-[00:26:29] [Server Shutdown Thread/INFO]: Stopping server
-[00:26:29] [Server Shutdown Thread/INFO]: Saving players
-[00:26:29] [Server Shutdown Thread/INFO]: Saving worlds
-[00:26:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/overworld
-[00:26:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_nether
-[00:26:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_end
+[14:42:20] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[14:42:20] [Server thread/INFO]: Loading properties
+[14:42:20] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Referensen (handle) är felaktig
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_111]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
+	at nz$2.run(SourceFile:100) [server.jar:?]
+[14:42:20] [Server thread/INFO]: Default game type: SURVIVAL
+[14:42:20] [Server thread/INFO]: Generating keypair
+[14:42:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:42:20] [Server thread/INFO]: Using default channel type
+[14:42:20] [Server thread/INFO]: Preparing level "Server"
+[14:42:20] [Server thread/INFO]: Loaded 488 advancements
+[14:42:20] [Server thread/INFO]: Preparing start region for level 0
+[14:42:21] [Server thread/INFO]: Preparing spawn area: 49%
+[14:42:22] [Server thread/INFO]: Done (1,791s)! For help, type "help" or "?"
+[14:44:00] [User Authenticator #1/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
+[14:44:00] [Server thread/INFO]: QeaZz[/25.82.227.42:58820] logged in with entity id 359 at (513.6999999880791, 72.0, -77.19472820164859)
+[14:44:00] [Server thread/INFO]: QeaZz joined the game
+[14:44:00] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 69a4d220-b687-4980-908a-9d0611a99d1d
+[14:45:08] [User Authenticator #2/INFO]: UUID of player Hompan is 735add46-12f1-4ae5-a77d-c955c682a7cf
+[14:45:08] [Server thread/INFO]: Hompan[/25.59.55.169:51735] logged in with entity id 8665 at (464.8072816687332, 69.0, -65.56403190542754)
+[14:45:08] [Server thread/INFO]: Hompan joined the game
+[14:45:12] [Server thread/INFO]: <QeaZz> no
+[14:55:36] [User Authenticator #3/INFO]: UUID of player Sp0of27 is 8a5de995-9bb5-4f68-ac50-f9847b7dc5af
+[14:55:36] [Server thread/INFO]: Sp0of27[/25.59.146.175:50090] logged in with entity id 33975 at (468.3548462706583, 64.0, -64.01760753459868)
+[14:55:36] [Server thread/INFO]: Sp0of27 joined the game
+[15:00:37] [Server thread/WARN]: QeaZz moved too quickly! -436.95245409115347,-13.0,75.09581416668324
+[15:01:43] [Server thread/INFO]: [QeaZz: Changing to rain and thunder]
+[15:08:06] [Server thread/INFO]: Hompan lost connection: Disconnected
+[15:08:06] [Server thread/INFO]: Hompan left the game
+[15:12:39] [Server thread/INFO]: Sp0of27 lost connection: Disconnected
+[15:12:39] [Server thread/INFO]: Sp0of27 left the game
+[15:28:45] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 69a4d220-b687-4980-908a-9d0611a99d1d
+[15:28:46] [Server thread/WARN]: QeaZz moved too quickly! 436.79567513010375,13.0,-74.13733847991764
+[15:31:13] [Server thread/INFO]: QeaZz lost connection: Disconnected
+[15:31:13] [Server thread/INFO]: QeaZz left the game
+[16:29:38] [Server thread/INFO]: Stopping the server
+[16:29:38] [Server thread/INFO]: Stopping server
+[16:29:38] [Server thread/INFO]: Saving players
+[16:29:38] [Server thread/INFO]: Saving worlds
+[16:29:38] [Server thread/INFO]: Saving chunks for level 'Server'/overworld
+[16:29:38] [Server thread/INFO]: Saving chunks for level 'Server'/the_nether
+[16:29:38] [Server thread/INFO]: Saving chunks for level 'Server'/the_end
+[16:29:38] [Server Shutdown Thread/INFO]: Stopping server
+[16:29:38] [Server Shutdown Thread/INFO]: Saving players
+[16:29:38] [Server Shutdown Thread/INFO]: Saving worlds
+[16:29:38] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/overworld
+[16:29:38] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_nether
+[16:29:38] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_end
