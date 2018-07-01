@@ -1,43 +1,16 @@
-[00:16:22] [User Authenticator #4/INFO]: UUID of player Hompan is 735add46-12f1-4ae5-a77d-c955c682a7cf
-[00:16:22] [Server thread/INFO]: Hompan[/25.59.55.169:56122] logged in with entity id 118383 at (474.7562714994497, 67.0, -65.83510575711445)
-[00:16:22] [Server thread/INFO]: Hompan joined the game
-[08:24:59] [Server thread/INFO]: Hompan lost connection: Disconnected
-[08:24:59] [Server thread/INFO]: Hompan left the game
-[08:31:41] [Server thread/INFO]: QeaZz lost connection: Disconnected
-[08:31:41] [Server thread/INFO]: QeaZz left the game
-[11:27:24] [User Authenticator #5/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
-[11:27:24] [Server thread/INFO]: QeaZz[/25.82.227.42:64401] logged in with entity id 689070 at (596.6076239905965, 66.5, -1.6999999880790706)
-[11:27:24] [Server thread/INFO]: QeaZz joined the game
-[11:27:24] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 69a4d220-b687-4980-908a-9d0611a99d1d
-[11:59:01] [Server thread/INFO]: QeaZz lost connection: Disconnected
-[11:59:01] [Server thread/INFO]: QeaZz left the game
-[15:57:57] [User Authenticator #6/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
-[15:57:57] [Server thread/INFO]: QeaZz[/25.82.227.42:60022] logged in with entity id 742343 at (582.9459088231549, 71.0, 15.583199819986351)
-[15:57:57] [Server thread/INFO]: QeaZz joined the game
-[15:57:57] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 69a4d220-b687-4980-908a-9d0611a99d1d
-[16:01:41] [Server thread/WARN]: QeaZz moved too quickly! -436.4040396464137,-13.0,74.50097545879329
-[16:05:31] [Server thread/INFO]: QeaZz lost connection: Disconnected
-[16:05:31] [Server thread/INFO]: QeaZz left the game
-[22:02:35] [User Authenticator #7/INFO]: UUID of player QeaZz is a84ddffd-ed14-413f-8926-fa8aef274d2c
-[22:02:35] [Server thread/INFO]: QeaZz[/25.82.227.42:63729] logged in with entity id 755225 at (83.01185149903752, 61.0, -193.7645398755702)
-[22:02:35] [Server thread/INFO]: QeaZz joined the game
-[22:09:59] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 69a4d220-b687-4980-908a-9d0611a99d1d
-[22:10:00] [Server thread/WARN]: QeaZz moved too quickly! 436.4136686337613,13.0,-74.2375186530303
-[22:10:26] [Server thread/INFO]: [QeaZz: Set the time to 0]
-[22:21:32] [Server thread/INFO]: [QeaZz: Set the time to 0]
-[22:34:09] [Server thread/INFO]: [QeaZz: Set the time to 0]
-[22:36:14] [Server thread/INFO]: QeaZz lost connection: Disconnected
-[22:36:14] [Server thread/INFO]: QeaZz left the game
-[22:49:05] [Server thread/INFO]: Stopping the server
-[22:49:05] [Server thread/INFO]: Stopping server
-[22:49:05] [Server thread/INFO]: Saving players
-[22:49:05] [Server thread/INFO]: Saving worlds
-[22:49:05] [Server thread/INFO]: Saving chunks for level 'Server'/overworld
-[22:49:05] [Server thread/INFO]: Saving chunks for level 'Server'/the_nether
-[22:49:05] [Server thread/INFO]: Saving chunks for level 'Server'/the_end
-[22:49:05] [Server Shutdown Thread/INFO]: Stopping server
-[22:49:05] [Server Shutdown Thread/INFO]: Saving players
-[22:49:05] [Server Shutdown Thread/INFO]: Saving worlds
-[22:49:05] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/overworld
-[22:49:05] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_nether
-[22:49:05] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_end
+[14:42:20] [Server thread/INFO]: [QeaZz: Set the time to 0]
+[23:08:45] [Server thread/INFO]: QeaZz lost connection: Disconnected
+[23:08:45] [Server thread/INFO]: QeaZz left the game
+[23:08:54] [Server thread/INFO]: Stopping the server
+[23:08:54] [Server thread/INFO]: Stopping server
+[23:08:54] [Server thread/INFO]: Saving players
+[23:08:54] [Server thread/INFO]: Saving worlds
+[23:08:54] [Server thread/INFO]: Saving chunks for level 'Server'/overworld
+[23:08:54] [Server thread/INFO]: Saving chunks for level 'Server'/the_nether
+[23:08:54] [Server thread/INFO]: Saving chunks for level 'Server'/the_end
+[23:08:54] [Server Shutdown Thread/INFO]: Stopping server
+[23:08:54] [Server Shutdown Thread/INFO]: Saving players
+[23:08:54] [Server Shutdown Thread/INFO]: Saving worlds
+[23:08:54] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/overworld
+[23:08:54] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_nether
+[23:08:54] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_end
