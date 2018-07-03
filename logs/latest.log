@@ -1,16 +1,13 @@
-[14:42:20] [Server thread/INFO]: [QeaZz: Set the time to 0]
-[23:08:45] [Server thread/INFO]: QeaZz lost connection: Disconnected
-[23:08:45] [Server thread/INFO]: QeaZz left the game
-[23:08:54] [Server thread/INFO]: Stopping the server
-[23:08:54] [Server thread/INFO]: Stopping server
-[23:08:54] [Server thread/INFO]: Saving players
-[23:08:54] [Server thread/INFO]: Saving worlds
-[23:08:54] [Server thread/INFO]: Saving chunks for level 'Server'/overworld
-[23:08:54] [Server thread/INFO]: Saving chunks for level 'Server'/the_nether
-[23:08:54] [Server thread/INFO]: Saving chunks for level 'Server'/the_end
-[23:08:54] [Server Shutdown Thread/INFO]: Stopping server
-[23:08:54] [Server Shutdown Thread/INFO]: Saving players
-[23:08:54] [Server Shutdown Thread/INFO]: Saving worlds
-[23:08:54] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/overworld
-[23:08:54] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_nether
-[23:08:54] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_end
+[00:06:30] [Server thread/INFO]: Stopping the server
+[00:06:30] [Server thread/INFO]: Stopping server
+[00:06:30] [Server thread/INFO]: Saving players
+[00:06:30] [Server thread/INFO]: Saving worlds
+[00:06:30] [Server thread/INFO]: Saving chunks for level 'Server'/overworld
+[00:06:30] [Server thread/INFO]: Saving chunks for level 'Server'/the_nether
+[00:06:30] [Server thread/INFO]: Saving chunks for level 'Server'/the_end
+[00:06:30] [Server Shutdown Thread/INFO]: Stopping server
+[00:06:30] [Server Shutdown Thread/INFO]: Saving players
+[00:06:30] [Server Shutdown Thread/INFO]: Saving worlds
+[00:06:30] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/overworld
+[00:06:30] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_nether
+[00:06:30] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_end

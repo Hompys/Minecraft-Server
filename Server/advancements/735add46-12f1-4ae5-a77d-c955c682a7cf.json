@@ -436,6 +436,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2018-06-04 18:11:36 +0200",
+      "cooked_beef": "2018-07-03 09:50:21 +0200",
       "baked_potato": "2018-06-04 19:04:25 +0200",
       "potato": "2018-06-13 11:46:32 +0200",
       "poisonous_potato": "2018-06-24 11:41:02 +0200",
