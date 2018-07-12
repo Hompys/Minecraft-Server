@@ -1,13 +1,41 @@
-[00:06:30] [Server thread/INFO]: Stopping the server
-[00:06:30] [Server thread/INFO]: Stopping server
-[00:06:30] [Server thread/INFO]: Saving players
-[00:06:30] [Server thread/INFO]: Saving worlds
-[00:06:30] [Server thread/INFO]: Saving chunks for level 'Server'/overworld
-[00:06:30] [Server thread/INFO]: Saving chunks for level 'Server'/the_nether
-[00:06:30] [Server thread/INFO]: Saving chunks for level 'Server'/the_end
-[00:06:30] [Server Shutdown Thread/INFO]: Stopping server
-[00:06:30] [Server Shutdown Thread/INFO]: Saving players
-[00:06:30] [Server Shutdown Thread/INFO]: Saving worlds
-[00:06:30] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/overworld
-[00:06:30] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_nether
-[00:06:30] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/the_end
+[11:24:03] [Server thread/INFO]: Loading properties
+[11:24:03] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Referensen (handle) är felaktig
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_111]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
+	at nz$2.run(SourceFile:100) [server.jar:?]
+[11:24:03] [Server thread/INFO]: Default game type: SURVIVAL
+[11:24:03] [Server thread/INFO]: Generating keypair
+[11:24:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:24:03] [Server thread/INFO]: Using default channel type
+[11:24:04] [Server thread/INFO]: Preparing level "Server"
+[11:24:04] [Server thread/INFO]: Loaded 488 advancements
+[11:24:04] [Server thread/INFO]: Preparing start region for level 0
+[11:24:05] [Server thread/INFO]: Preparing spawn area: 52%
+[11:24:06] [Server thread/INFO]: Done (1,888s)! For help, type "help" or "?"
+[11:24:56] [User Authenticator #1/INFO]: UUID of player Hompan is 735add46-12f1-4ae5-a77d-c955c682a7cf
+[11:24:56] [Server thread/INFO]: Hompan[/25.59.55.169:62419] logged in with entity id 364 at (454.3186510515955, 64.0, -94.3230622042549)
+[11:24:56] [Server thread/INFO]: Hompan joined the game
+[11:25:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2160ms behind, skipping 43 tick(s)
+[11:32:28] [Server thread/INFO]: Hompan lost connection: Disconnected
+[11:32:28] [Server thread/INFO]: Hompan left the game
+[11:32:33] [Server thread/INFO]: Stopping the server
+[11:32:33] [Server thread/INFO]: Stopping server
+[11:32:33] [Server thread/INFO]: Saving players
+[11:32:33] [Server thread/INFO]: Saving worlds
+[11:32:33] [Server thread/INFO]: Saving chunks for level 'Server'/overworld
+[11:32:33] [Server thread/INFO]: Saving chunks for level 'Server'/the_nether
+[11:32:33] [Server thread/INFO]: Saving chunks for level 'Server'/the_end
+[11:32:33] [Server Shutdown Thread/INFO]: Stopping server
+[11:32:33] [Server Shutdown Thread/INFO]: Saving players
+[11:32:33] [Server Shutdown Thread/INFO]: Saving worlds
+[11:32:33] [Server Shutdown Thread/INFO]: Saving chunks for level 'Server'/overworld
